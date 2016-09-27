@@ -7,7 +7,7 @@ This is a very simple example to use python scripts as mappers and reducers for 
 
   $ find / -name hadoop-streaming-*.jar
 
-2. set a variable to the jar file
+2. set a variable to the jar file (Use your path. This example is my path!)
 
   $ export STREAMING_JAR=/opt/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-streaming-2.7.3.jar
   
